@@ -1,3 +1,7 @@
+package service
+
+import model.GameTable
+
 import scala.util.Random
 
 class Game(val dataPrinter: DataPrinter,
